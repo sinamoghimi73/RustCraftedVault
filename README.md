@@ -1,1 +1,1 @@
-# RustCraft
+# RustCraftedVault
